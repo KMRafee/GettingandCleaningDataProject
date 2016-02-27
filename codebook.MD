@@ -2,6 +2,9 @@
 
 ## Purpose
 
+The purpose of this project is to collect, work with, and clean a data set
+
+
 ## Identifiers
 	* activityID - Unique ID for the activitiy performed when measurement were taken
 	* subjectID - The ID of the test subject
@@ -78,14 +81,13 @@
 
 ## Activity Labels
 	
-	1 WALKING
+	* WALKING
 
-	2 WALKING_UPSTAIRS
+	* WALKING_UPSTAIRS
 
-	3 WALKING_DOWNSTAIRS
+	* WALKING_DOWNSTAIRS
 
-	4 SITTING
-	
-5 STANDING
+	* SITTING
+	* STANDING
 
-	6 LAYING
+	* LAYING
